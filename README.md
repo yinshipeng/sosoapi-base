@@ -19,7 +19,7 @@ sosoapi-base集成比较常用的开发组件，服务于sosoapi-web项目。
 参考各个组件的src/test/java相关使用示例。
 
 ### 注意事项
-暂无
+将pom.xml里的私服地址修改成自己的私服地址
 
 ## License
 GNU General Public License v3.0
